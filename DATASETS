@@ -1,0 +1,15 @@
+Dataset
+You can use open-source datasets like:
+Hand Gesture Recognition Database (Kaggle)
+Custom dataset collected via webcam
+
+Structure:
+dataset/
+├── train/
+│   ├── fist/
+│   ├── palm/
+│   ├── thumbs_up/
+├── test/
+│   ├── fist/
+│   ├── palm/
+│   ├── thumbs_up/
